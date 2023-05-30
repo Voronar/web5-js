@@ -19,6 +19,7 @@
   },
   "include": [
     "./src/main.ts",
+    "./src/dwn-api.ts",
   ],
   "exclude": [
     "node_modules",
